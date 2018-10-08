@@ -1,0 +1,51 @@
+﻿NUMBER 1
+
+A subscriber (Adam) looks at the app and sees the newest Star Wars is coming out.
+He says that he's going.
+He arrives at the theater half an hour early.
+He meets up with other users at the landmark that the app showed.
+He meets other subscribers (Jerry, Mary, and Tom). Adam has not met these people before.
+They take out their phones and play the game in the app (talking with each other at the same time).
+All four get cheaper movie tickets.
+They see the movie together.
+They go home.
+
+
+NUMBER 2
+
+Adam looks at the app and sees the newest Marvel movie is coming out.
+He says that he's going.
+He arrives at the theater half an hour early.
+He meets up with other users at the landmark that the app showed.
+Adam already knows Jerry, Mary, and Tom. He socializes with them a bit before playing.
+They all take out their phones and play the game in the app (talking with each other at the same time).
+All four get cheaper movie tickets.
+They see the movie together.
+They go home.
+
+
+NUMBER 3
+
+Adam looks at the app and sees the newest video game adaptation movie is coming out.
+He says that he's going.
+He arrives at the theater half an hour early.
+He meets up with other users at the landmark that the app showed.
+Adam already knows Jerry, Mary, and Tom, but there is a new user (Beatrice).
+They take out their phones and play the game in the app (talking with each other at the same time).
+All five get cheaper movie tickets.
+They see the movie together.
+They go home.
+
+
+NUMBER 4
+
+Adam looks at the app and sees the newest Disney animated movie is coming out.
+He says that he's going.
+He arrives at the theater half an hour early.
+He meets up with other users at the landmark that the app showed.
+Adam already knows Jerry, Mary, Tom, and Beatrice. They socialize for a bit before playing.
+They take out their phones and play the game in the app (talking with each other at the same time).
+All five get cheaper movie tickets.
+They see the movie together.
+They decide to eat dinner together. They have a fun time in the restaurant.
+They go home.
